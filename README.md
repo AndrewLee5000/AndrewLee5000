@@ -16,7 +16,7 @@ I am pursuing a master’s degree in Computer Science at Columbia University to 
 ## 🌐 Connect with Me
 💼 LinkedIn: [linkedin.com/in/andy-lee1](https://www.linkedin.com/in/andy-lee1)  
 📧 Email: al4744@columbia.edu  
-🌍 GitHub: [AndrewLee5000's Portfolio](https://github.com/AndrewLee5000) 
+🌍 GitHub: [github.com/AndrewLee5000](https://github.com/AndrewLee5000) 
 
 <!--
 **AndrewLee5000/AndrewLee5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
